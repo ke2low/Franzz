@@ -109,7 +109,7 @@ I focused on building the general structure of the application and managing the 
 
 ### ke2low
 
-?
+I was responsible for the overall design and styling of the application including ensuring that the application would be responsive. I also designed and built the majority of the front-end UI components. In addition, I was involved in implenting the functionality to pass data between the front-end and back-end, so that UI components could be dynamically generated and also so that the components could take in user data. I also contributed to building out the collaborative drawing and geolocation application widgets. Lastly, I utilized FontAwesome, Google Fonts and MaterialUI components to add to the overall design aesthetic of the application.
 
 ## Screenshots 📸
 
